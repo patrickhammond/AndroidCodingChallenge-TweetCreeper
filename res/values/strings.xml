@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">TweetCreeper</string>
+    <string name="title_tweet_detail">Tweet Detail</string>
+    <string name="title_tweet_list">Tweets</string>
+
+</resources>

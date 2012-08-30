@@ -1,0 +1,3 @@
+<resources>
+    <item type="layout" name="activity_tweet_list">@layout/activity_tweet_twopane</item>
+</resources>
